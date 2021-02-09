@@ -1,0 +1,28 @@
+{
+  "name": "neo4j-crud-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "*",
+    "ejs": "^2.4.2",
+    "express": "*",
+    "morgan": "*",
+    "neo4j-driver": "^1.7.2",
+    "nodemon": "^1.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshuhere/neo4j-crud-demo-app.git"
+  },
+  "author": "Himanshu Soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshuhere/neo4j-crud-demo-app/issues"
+  },
+  "homepage": "https://github.com/himanshuhere/neo4j-crud-demo-app#readme"
+}
